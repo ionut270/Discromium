@@ -21,6 +21,7 @@
     "puppeteer": "^22.12.0",
     "puppeteer-stream": "^3.0.14",
     "websocket": "^1.0.35",
+    "xmldom": "^0.6.0",
     "ytdl-core": "^4.11.5"
   }
 }
